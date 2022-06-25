@@ -18,6 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobians&show_icons=true&locale=en&layout=compact" alt="jobianstechie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobians&show_icons=true&locale=en" alt="jobians" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobians&" alt="jobians" /></p>
