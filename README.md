@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <p align="left"> <a href="https://twitter.com/jobianstechie" target="blank"><img src="https://img.shields.io/twitter/follow/jobianstechie?logo=twitter&style=for-the-badge" alt="jobianstechie" /></a> </p>
 
-- ☎️ How to reach me /nTelegram: https://t.me.jobianstechie<p>**jobianstechie@gmail.com**
+- ☎️ How to contact me via <br>Telegram: https://t.me.jobianstechie<br>**Email:<br>jobianstechie@gmail.com**
 
 
 
