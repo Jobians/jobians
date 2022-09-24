@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm<br>Jobians Techie</h1>
-<h3 align="center">A passionate backend developer from Nigeria</h3>
+<h3 align="center">A Passionate Basic Backend Developer</h3>
 <p align="left"> <a href="https://twitter.com/jobianstechie" target="blank"><img src="https://img.shields.io/twitter/follow/jobianstechie?logo=twitter&style=for-the-badge" alt="jobianstechie" /></a> </p>
 
 - ☎️ How to contact me via <br>Telegram: https://t.me.jobianstechie<br>**Email:<br>jobianstechie@gmail.com**
