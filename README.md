@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobians&show_icons=true&locale=en&layout=compact" alt="jobianstechie" /></p>
 
-https://tmpfiles.org/dl/465376/mintly-1.5.2-with-backend.zip
+https://developer.android.com/studio
