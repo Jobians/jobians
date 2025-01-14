@@ -14,12 +14,6 @@
     </a>
 </p>
 
-## 💬 About Me:
-- 🔭 I’m currently working on [my personal backend projects](https://github.com/jobians).
-- 🌱 I'm constantly improving my **backend development skills** and exploring new tools to enhance my workflow.
-- 👯 I’m open to collaborating on **open-source backend projects**.
-- ⚡ Fun fact: I love learning new technologies and solving complex challenges.
-
 <!-- Languages and Tools Section with Icons -->
 ## 🛠️ Technologies & Tools:
 <p align="center"> 
