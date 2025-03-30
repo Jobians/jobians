@@ -58,6 +58,29 @@
 ## My Starred Repositories
 
 <!-- STARRED_REPOS_START -->
+## Starred Repositories by Language
+
+*Total: 7 repositories across 4 languages*
+
+### JavaScript (2)
+
+- [AggressiveUser/noxer](https://github.com/AggressiveUser/noxer) - Noxer is a powerful Python script designed for automating Android penetration testing tasks within the Nox Player emulator.
+- [ikennaezef/beatbox_music_app](https://github.com/ikennaezef/beatbox_music_app) - Music application built on the MERN stack
+
+### Python (1)
+
+- [exposesh/expose-server](https://github.com/exposesh/expose-server) - The various components of the EXPOSE server, deployed on Fly.io
+
+### TypeScript (3)
+
+- [drivebase/drivebase](https://github.com/drivebase/drivebase) - Open-source, self-hosted cloud file manager designed to unify file storage across multiple cloud providers into one seamless interface.
+- [botmate/botmate](https://github.com/botmate/botmate) - 📦 plugin based bot management platform for telegram, discord and more
+- [ikennaezef/anoni](https://github.com/ikennaezef/anoni) - An anonymous messaging web application
+
+### Unknown (1)
+
+- [Untoldhacker-Dev/Cubeton-Jobs](https://github.com/Untoldhacker-Dev/Cubeton-Jobs) - Jobs around Cubeton - Planning and Drafts.
+
 
 <!-- STARRED_REPOS_END -->
 
