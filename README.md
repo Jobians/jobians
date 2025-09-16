@@ -5,9 +5,12 @@ I love everything about technology!
 
 ---
 
-## ⚡ Fun Fact
+## 🛠️ Skills
 
-I'm always excited to discover new technologies and contribute to open-source projects!
+- Electronic (Beginner)
+- Backend Development (Intermediate)
+  - JavaScript (Node.js, TypeScript, Deno)
+  - PHP
 
 ---
 
